@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.PubMed.Models", "RSS.PubMed.Models\RSS.PubMed.Models.csproj", "{8B26B198-0F5F-4E37-84BE-A516072B8321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.PubMed", "RSS.PubMed\RSS.PubMed.csproj", "{798833E9-882E-4CAD-BA0F-DF9ADDCFA7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS.PubMed.Tests", "RSS.PubMed.Tests\RSS.PubMed.Tests.csproj", "{A37245CA-617E-4F1A-BF18-BF14EE4AB22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B26B198-0F5F-4E37-84BE-A516072B8321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B26B198-0F5F-4E37-84BE-A516072B8321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B26B198-0F5F-4E37-84BE-A516072B8321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B26B198-0F5F-4E37-84BE-A516072B8321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798833E9-882E-4CAD-BA0F-DF9ADDCFA7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798833E9-882E-4CAD-BA0F-DF9ADDCFA7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798833E9-882E-4CAD-BA0F-DF9ADDCFA7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798833E9-882E-4CAD-BA0F-DF9ADDCFA7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37245CA-617E-4F1A-BF18-BF14EE4AB22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37245CA-617E-4F1A-BF18-BF14EE4AB22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37245CA-617E-4F1A-BF18-BF14EE4AB22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37245CA-617E-4F1A-BF18-BF14EE4AB22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
